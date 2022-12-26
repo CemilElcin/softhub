@@ -1,0 +1,111 @@
+{
+    "home":"Anasayfa",
+    "about":"Hakkımızda",
+    "contact":"İletişim",
+    "services":"Servisler",
+    "discover":"Keşfet",
+	"allRightsReserved":"Tüm hakları saklıdır",
+    "welcomeToSofthub": "SoftHub'a Hoş Geldiniz",
+    "welcomeToSofthubDesc": "SoftHub, ilk kıvılcımları 2013 yılında atılmış ; 2020 yılında Türkiye’de yazılım alanında çalışmalarına başlamış multidisipliner bir yazılım şirketidir. SoftHub ekibi olarak Türkiye ve yurt dışından yüksek nitelikli ve entegre yazılım geliştirme ekipleri ile profesyonelliğini kendi proje ekiplerine adapte ederek yerel ve uluslararası müşterilerinin devam eden projelerinin güvenli bir şekilde planlanmasını sağlıyoruz. Beceri eksikliği zamanlarında, dijital dönüşümün ön saflarında kalabilmeniz için işinizi yüksek kaliteli ve uygun maliyetli IT/Dijital çözümlerle yürütmenize yardımcı oluyoruz.",
+    "rpaTitle":"Robotik Süreç Otomasyonu",
+    "rpaDesc":[
+        "Robotik Süreç Otomasyonu (RPA), sıradan, tekrarlayan ve kurallara dayalı süreçleri otomatikleştirmek için mikro yazılım çözümlerinin kullanıldığı bir çözümlemedir. Bu çözümler önemli ve değerli görevler için personel ve kaynakları verimli hale getirmek için kullanılır.",
+        "RPA teknolojisi, kullanıcılar için tasarlanmış arayüzlerde yapılan eylemlerin dijital sistemlerle etkileşime girerek insan eylemini taklit edebilen yazılım botları oluşturmasına, devreye almasına ve yönetmesine olanak sağlayan bir platformdur. Eylemler arasında gezinme sistemleri; ekranda ne olduğunu anlamak; tuş vuruşlarını tamamlama; verileri çıkarma, ekleme, işleme ve tanımlanmış eylemleri gerçekleştirme işletimleri bulunmaktadır."
+    ],
+    "rpaBenefitsTitle":"RPA'nın faydaları nelerdir?",
+    "rpaBenefits":[
+        "İş akışlarının verimliliğini artırmak için teknoloji ve fırsat sağlayarak kuruluşların karlılığını, esnekliğini ve üretkenliğini artırır.",
+        "Hızlandırılmış dijital dönüşüm;",
+        "Önemli maliyet tasarrufu;",
+        "Artan esneklik – iş yükü zirvelerini karşılayın;",
+        "Artırılmış doğruluk – manuel görevlerde hata azaltma;",
+        "Artan uyum;",
+        "Artan üretkenlik;",
+        "Personeli daha değerli işler için serbest bırakır;",
+        "Daha mutlu çalışanlar – tekrarlanmayan manuel görevler"
+    ],
+    "genesysDesc":"Kurumsal çağrı merkezlerinin daha iyi işletme sonuçlarına ulaşmalarını sağlamak için çok kanallı müşteri deneyimini desteklemek,iş süreçlerini ve platformlarının geliştirme süreçlerine destek oluyoruz. Kurumsal çağrı merkezlerini sorunsuzca ve düşük maliyetle modernize etmenin yollarını arayan organizasyonlara deneyimlerimizle yardımcı oluyoruz.",
+    "genesysList":[
+        "ON PREMISE DESTEK",
+        "ON PREMISE – CLOUD GEÇİŞLERİ",
+        "CLOUD DESTEK/ÜRÜN ÇÖZÜMLERİ",
+        "ÜRÜN ÇÖZÜMLERİ",
+        "DANIŞMANLIK"
+    ],
+    "frontendBackendDevelopmentTitle":"Frontend & Backend Development",
+    "frontendBackendDevelopmentDesc":[
+        "Gereksinimlerinizi ve müşterilerinizin ihtiyaçlarını anlıyoruz. Bu sayede firmanızın en son teknolojiden faydalanmasını sağlayan, size özel ve sektöre özel çözümler geliştiriyoruz.",
+        "Müşterilerimiz, işleri için ihtiyaç duydukları fikirlerin şekilllendirilmesinden kullanıcı yolculuğu tanımlamasına, hızlı prototip oluşturmaya, geliştirmeye ve sürekli çözüm geliştirmeye kadar bize güveniyor. Ekibimiz, tasarlanan projelerin zamanında ve bütçe dahilinde teslim edilmesini sağlamak ve riski azaltmak için çalışan uzmanlardan oluşmaktadır."
+    ],
+    "complexSoftwareProjectsList":[
+        "Başarılı dijital dönüşümünüz için bulut fırsatları hakkında destek oluyoruz.",
+        "AI / ML hizmetlerimiz, yeniliklerin ve yeni teknolojilerin ön saflarında geleceğe adım atmanıza destek olur.",
+        "SOFTHUB, strateji optimizasyonu ve tahmini, performans araştırması ve trend keşfi, bütçe projeksiyonu ve finansal planlama, müşteri analitiği ve gelişmiş raporlama gibi iş zekası (BI) hizmetleriyle işletmenizin veri analitiğinin gücünden yararlanmasına ve stratejik hedeflerinize ulaşmasına yardımcı olur",
+        "Veri bilimi hizmetlerindeki uzmanlarımız, değerlendirilecek verileri belirler ve hassas bir şekilde analiz eder.",
+        "Tüm son teknoloji hizmetleri ve yöntemleri ile tek bir çözümde birleştiren dijital platform geliştirme sunuyoruz. Bu, çevik ve çevik olmayan ekiplerin birlikte çalışmasına olanak tanıyan ve hızlı ön uç geliştirme sağlarken sistem kararlılığını sürdüren bir sistemdir.",
+        "Mobil uygulamadan dijital platforma, kurumsal uygulama geliştirme uzmanlarımız ile işinizi dönüştürmenize yardımcı oluyoruz",
+        "Mikro hizmet çözümlerimiz, bakımı ve ölçeklemesi daha kolay olan projeler için çevik geliştirme sağlar. Kubernetes kümelerinden bireysel Docker kapsayıcılarına kadar, geliştirme performansınızı artıran bir mimari geliştirmenize yardımcı oluyoruz."
+    ],
+    "complexSoftwareProjectsListTitle":[
+        "Bulut hizmetleri",
+        "Yapay Zeka / Makine Öğrenimi Hizmetler",
+        "İş Zekası Çözümleri",
+        "Veri Bilimi Hizmetleri",
+        "Dijital Platform Geliştirme",
+        "Kurumsal Uygulama Geliştirme",
+        "Mikro Hizmet Çözümleri"
+    ],
+    "howItWorksTitle":"Nasıl Çalışıyoruz",
+    "howItWorksTitles":[
+        "Planlama",
+        "Tasarım",
+        "Geliştirme",
+        "Uygulama"
+    ],
+    "howItWorksTexts":[
+        "ClickUp, Jira, ve Confluence bilişim sistemlerini kullanarak ekiplerimiz ile en hızlı yöntemlerle çalışmalarımızı planlıyoruz.",
+        "Tasarımcılarımızın kullandığı Photoshop, XD, Illustrator programları ile en yüksek kalitede mükemmel tasarımlar çıkartıyoruz",
+        "MS Visual Studio, GitHub, GitLab, Jenkins'i Kullanarak teknoloji uzmanlarımız tarafından projelerimizi canlı projeler haline getiriyoruz.",
+        "Softhub servis merkezimizde Jenkins kullanarak kullanıcılarımızın projelerinde sürekli entegre şekilde çalışıyoruz."
+    ],
+    "profession":[
+        "Uzmanlık Alanlarımız",
+        "Kullandığımız Diller"
+    ],
+    "whyShouldYouWorkWithUs":[
+        "Neden Bizimle Çalışmalısınız ?",
+        "Esnek isteğe bağlı işe alma",
+        "Dijital gündeminize güç katın",
+        "Yönetilebilir riskler",
+        "Hızlı öğrenme ve geliştirme"
+    ],
+    "whyShouldYouWorkWithUsText":[
+        "Kullanıcılarımız, takımda tam zamanlı bir rol oynamak için bir uzman seçebilirler aynı zamanda özel ekiplerini oluşturabilecekleri Softhub'ın öğrenim topluluğuna erişebilir",
+        "Kullanıcılarımız, dijital gündemlerinin daha hızlı uygulanmasına olanak tanıyan, küresel olarak rekabetçi fiyatlarla özel yetenekleri SoftHub ile işe alabilirler.",
+        "Sizler için hazırladığımız uygun pilot projeler ile kullanıcılarımızın daha uzun vadeli yatırımlar yapmadan önce bizlerle yapacağı işbirliğinin güvenirliğini hissedebilirler.",
+        "SoftHub, IT uzmanlarının sürekli gelişmek için ihtiyaç duydukları kaynaklara ve koçluğa sahip olmalarını sağlayarak gelişimlerine katkı sağlayabilirler."
+    ],
+    "howCanYouWorkWithUs":[
+        "Bizimle Nasıl Çalışabilirsiniz?",
+        "Bizimle iletişime geçin",
+        "Proje Tahmini",
+        "Sözleşme",
+        "Hızlı Projelendirme",
+        "Proje Kabulu"
+    ],
+    "howCanYouWorkWithUsText":[
+        "Bizimle info@softhub.com.tr mail adresimizden ya da softhub-arge LinkedIn adresinden iletişime geçerek satış ekibimiz ile sonraki adımları planlayabilirsiniz.",
+        "Uzman Ekibimiz ile kullanıcılarımız için tasarım bir proje hazırlayarak en uygun metotları hazırlıyoruz.",
+        "Kullanıcılarımızın ve projelerimizin koruyuculuğunu sağlayabilmek için en uygun sözleşme protokolünü hazırlayarak karşılıklı güven içerisinde çalışma alanı sağlıyoruz.",
+        "Planlamalarımızı yaptıktan sonra hızlı bir şekilde projelendirmeye başlayarak en kısa sürede, en verimli şekilde projelerimizi kullanıcılarım ile paylaşıyoruz.",
+        "Kullanıcılarımız ile karşılıklı anlaşmaları sağladıktan sonra tasarım projemizi sunuyoruz, kabul edildiği takdirde proje kabulümüzü tamamladıktan sonra ana projemize başlamak üzere süreci Softhub ekibi olarak emanet alıyoruz"
+    ],
+    "ourStory":[
+        "Hikayemiz",
+        "Softhub ekibi 2018 yılından bu yana firmalara projelere dış kaynak hizmeti veren bir ekiptir. Örneğin TRC DANIŞMANLIK, VKB. gibi... Ekip arkadaşlarımız araştırma geliştirme ve proje yönetimi konusunda 15 yılı aşkın deneyime sahiptir. Bu süreçlerde edindiğimiz bilgi birikimi ile ekibimizi daha genişletmeyi hedef alıyoruz . Ülkemizde gelecek vaat eden yazılım geliştircileri eğitmek için anlaşmalı olduğumuz eğitim kurumları ile düzenli eğitim kampları düzenliyoruz."
+    ],
+    "more":"Daha Fazlası",
+    "social":"Dijital Platformlarda Biz"
+    
+
+}   

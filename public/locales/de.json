@@ -1,0 +1,109 @@
+{
+	"home": "Startseite",
+	"about": "Über Uns",
+	"contact": "Kontakt",
+	"services": "Dienstleistungen",
+	"discover": "Entdecken",
+	"allRightsReserved": "Alle Rechte vorbehalten",
+	"welcomeToSofthub": "Willkommen bei SoftHub",
+	"welcomeToSofthubDesc": "SoftHub ist ein multidisziplinäres Softwareunternehmen, das seine Aktivitäten im Bereich der Software in der Türkei im Jahr 2020 aufgenommen hat, wobei der erste Funke im Jahr 2013 übergesprungen ist. Als SoftHub-Team stellen wir hochqualifizierte und integrierte Software-Entwicklungsteams aus der Türkei und dem Ausland mit der Professionalität eigener Projektteams zur Verfügung und sorgen so für Planungssicherheit bei laufenden Projekten lokaler und internationaler Kunden. In Zeiten des Fachkräftemangels helfen wir Ihnen, Ihr Unternehmen mit qualitativ hochwertigen und kosteneffizienten IT-/Digital-Lösungen zu führen, damit Sie bei der digitalen Transformation an der Spitze bleiben können.",
+	"rpaTitle": "Robotic Process Automation",
+	"rpaDesc": [
+		"Robotic Process Automation (RPA) ist der Einsatz von Mikrosoftwarelösungen zur Automatisierung von alltäglichen, sich wiederholenden und regelbasierten Prozessen. Diese Lösungen werden eingesetzt, um Personal und Ressourcen für wichtige und wertvolle Aufgaben effizient einzusetzen",
+		"Bei der RPA-Technologie handelt es sich um eine Plattform, die es ermöglicht, auf Benutzeroberflächen ausgeführte Aktionen zu erstellen, einzurichten und zu verwalten, die durch Interaktion mit digitalen Systemen menschliche Handlungen imitieren können. Zu den Aktionen gehören Navigationssysteme, das Verstehen von Bildschirminhalten, das Ausführen von Tastatureingaben, das Extrahieren, Einfügen und Verarbeiten von Daten sowie das Ausführen bestimmter Aktionen."
+	],
+	"rpaBenefitsTitle": "Was sind die Vorteile von RPA?",
+	"rpaBenefits": [
+		"Sie steigert die Rentabilität, Flexibilität und Produktivität von Unternehmen durch die Bereitstellung von Technologien und Möglichkeiten zur Verbesserung der Effizienz von Arbeitsabläufen.",
+		"Beschleunigte digitale Transformation",
+		"Erhebliche Kosteneinsparungen;",
+		"Erhöhte Flexibilität - Bewältigung von Arbeitsspitzen;",
+		"Erhöhte Genauigkeit - Fehlerreduzierung bei manuellen Aufgaben;",
+		"Verbesserte Einhaltung der Vorschriften;",
+		"Erhöhte Produktivität;",
+		"setzt Personal für wichtigere Aufgaben frei;",
+		"Zufriedenere Mitarbeiter - sich nicht wiederholende manuelle Aufgaben"
+	],
+	"genesysDesc": "Wir unterstützen die Entwicklung von Geschäftsprozessen und Plattformen zur Förderung der Omnichannel-Kundenerfahrung, damit die Callcenter von Unternehmen bessere Geschäftsergebnisse erzielen können. Wir helfen Organisationen, die nach Möglichkeiten suchen, ihre Unternehmens-Callcenter nahtlos und kosteneffizient zu modernisieren.",
+	"genesysList": [
+		"VOR-ORT-UNTERSTÜTZUNG",
+		"MIGRATIONEN VOR ORT - IN DER CLOUD",
+		"CLOUD-SUPPORT/PRODUKTLÖSUNGEN",
+		"PRODUKTLÖSUNGEN",
+		"BERATUNG"
+	],
+	"frontendBackendDevelopmentTitle": "Frontend & Backend Entwicklung",
+	"frontendBackendDevelopmentDesc": [
+		"Wir verstehen Ihre Anforderungen und die Bedürfnisse Ihrer Kunden. So können wir maßgeschneiderte und branchenspezifische Lösungen entwickeln, mit denen Ihr Unternehmen von der neuesten Technologie profitieren kann",
+		"Unsere Kunden verlassen sich auf uns, wenn es darum geht, Ideen für ihr Unternehmen zu entwickeln, die User Journey zu definieren, Rapid Prototyping zu betreiben, zu entwickeln und die Lösung kontinuierlich zu verbessern. Unser Team besteht aus Fachleuten, die dafür sorgen, dass die geplanten Projekte termingerecht und im Rahmen des Budgets durchgeführt werden und die Risiken minimiert werden."
+	],
+	"complexSoftwareProjectsList": [
+		"Wir unterstützen Sie bei den Cloud-Möglichkeiten für Ihre erfolgreiche digitale Transformation.",
+		"Unsere KI/ML-Services unterstützen Sie dabei, an der Spitze von Innovation und neuen Technologien in die Zukunft zu gehen.",
+		"SOFTHUB hilft Ihrem Unternehmen, die Macht der Datenanalyse zu nutzen und Ihre strategischen Ziele mit Business-Intelligence (BI)-Dienstleistungen wie Strategieoptimierung und -prognose, Leistungsforschung und Trendermittlung, Budgetprojektion und Finanzplanung, Kundenanalyse und fortschrittliches Reporting zu erreichen.",
+		"Unsere Experten für Data Science Services identifizieren und analysieren die auszuwertenden Daten präzise",
+		"Wir bieten die Entwicklung digitaler Plattformen, die alle modernen Dienstleistungen und Methoden in einer einzigen Lösung vereinen. Es handelt sich um ein System, das es agilen und nicht-agilen Teams ermöglicht, zusammenzuarbeiten, die Systemstabilität aufrechtzuerhalten und gleichzeitig eine schnelle Front-End-Entwicklung zu ermöglichen.",
+		"Von der mobilen Anwendung bis zur digitalen Plattform, wir helfen Ihnen mit unseren Experten für die Entwicklung von Unternehmensanwendungen, Ihr Unternehmen zu transformieren.",
+		"Unsere Microservices-Lösungen ermöglichen eine agile Entwicklung für Projekte, die einfacher zu warten und zu skalieren sind. Von Kubernetes-Clustern bis hin zu einzelnen Docker-Containern helfen wir Ihnen, eine Architektur zu entwickeln, die Ihre Entwicklungsleistung verbessert."
+	],
+	"complexSoftwareProjectsListTitle": [
+		"Cloud-Dienste",
+		"Künstliche Intelligenz / Maschinelles Lernen Dienstleistungen",
+		"Business Intelligence-Lösungen",
+		"Datenwissenschaftliche Dienstleistungen",
+		"Entwicklung digitaler Plattformen",
+		"Entwicklung von Unternehmensanwendungen",
+		"Micro Service Lösungen"
+	],
+	"howItWorksTitle": "Wie es funktioniert",
+	"howItWorksTitles": [
+		"Planung",
+		"Gestaltung",
+		"Entwicklung",
+		"Anwendungen"
+	],
+	"howItWorksTexts": [
+		"Wir planen unsere Arbeit mit den schnellsten Methoden, wobei unsere Teams die Informationssysteme ClickUp, Jira und Confluence verwenden.",
+		"Mit den von unseren Designern verwendeten Programmen Photoshop, XD und Illustrator erstellen wir exzellente Designs von höchster Qualität",
+		"Unsere Projekte werden von unseren Technologieexperten unter Verwendung von MS Visual Studio, GitHub, GitLab und Jenkins in Live-Projekte umgesetzt.",
+		"Durch den Einsatz von Jenkins in unserem Softhub Service Center sind wir ständig in die Projekte unserer Anwender eingebunden."
+	],
+	"profession": [
+		"Bereiche der Expertise",
+		"Sprachen, die wir verwenden"
+	],
+	"whyShouldYouWorkWithUs": [
+		"Warum sollten Sie mit uns zusammenarbeiten?",
+		"Flexible Personalbeschaffung auf Abruf",
+		"Energie für Ihre digitale Agenda",
+		"Überschaubare Risiken",
+		"Schnelles Lernen und Entwicklung"
+	],
+	"whyShouldYouWorkWithUsText": [
+		"Unsere Nutzer können einen Experten auswählen, der eine Vollzeitrolle im Team übernimmt, haben aber auch Zugang zur Lerngemeinschaft von Softhub, in der sie ihre eigenen benutzerdefinierten Teams erstellen können.",
+		"Unsere Nutzer können mit SoftHub spezialisierte Talente zu weltweit wettbewerbsfähigen Preisen anheuern und so ihre digitale Agenda schneller umsetzen",
+		"Mit den entsprechenden Pilotprojekten, die wir für Sie vorbereitet haben, können sich unsere Anwender von der Zuverlässigkeit der Zusammenarbeit mit uns überzeugen, bevor sie längerfristige Investitionen tätigen.",
+		"SoftHub kann zur Entwicklung von IT-Fachkräften beitragen, indem es sicherstellt, dass sie die Ressourcen und das Coaching erhalten, die sie benötigen, um sich kontinuierlich zu verbessern."
+	],
+	"howCanYouWorkWithUs": [
+		"Wie können Sie mit uns zusammenarbeiten?",
+		"Kontaktieren Sie uns",
+		"die Projektabschätzung",
+		"Vertrag",
+		"schnelle Projektion",
+		"die Projektabnahme"
+	],
+	"howCanYouWorkWithUsText": [
+		"Sie können die nächsten Schritte mit unserem Vertriebsteam planen, indem Sie uns unter info@softhub.com.tr oder auf LinkedIn unter softhub-arge kontaktieren.",
+		"Mit unserem Expertenteam bereiten wir die am besten geeigneten Methoden vor, indem wir ein Designprojekt für unsere Benutzer erstellen.",
+		"Um den Schutz unserer Nutzer und Projekte zu gewährleisten, erstellen wir das am besten geeignete Vertragsprotokoll und stellen einen Arbeitsbereich in gegenseitigem Vertrauen zur Verfügung.",
+		"Nachdem wir unsere Pläne gemacht haben, fangen wir schnell an zu projektieren und teilen unsere Projekte mit unseren Nutzern in kürzester Zeit und auf die effizienteste Weise.",
+		"Nachdem wir uns mit unseren Nutzern geeinigt haben, stellen wir unser Designprojekt vor, und wenn es akzeptiert wird, beginnen wir als Softhub-Team mit unserem Hauptprojekt, nachdem wir die Projektabnahme abgeschlossen haben."
+	],
+	"ourStory": [
+		"Unsere Story",
+		"Das Team von Softhub , dass seit 2018 Outsourcing-Dienstleistungen für Unternehmen anbietet. Zum Beispiel TRC CONSULTANCY, VKB... Unsere Mitarbeiter verfügen über mehr als 15 Jahre Erfahrung in Forschung und Entwicklung sowie im Projektmanagement. Mit dem Wissen, das wir in diesen Prozessen gewonnen haben, wollen wir unser Team erweitern. In Zusammenarbeit mit den von uns beauftragten Bildungseinrichtungen veranstalten wir regelmäßig Trainingscamps, um vielversprechende Softwareentwickler in unserem Land auszubilden."
+	],
+	"more": "Mehr",
+	"social": "Uns auf digitalen Plattformen"
+}
